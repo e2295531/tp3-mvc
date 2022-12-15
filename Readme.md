@@ -21,7 +21,7 @@ RewriteRule ^(.+)$ index.php?url=$1 [L]
 
 ## installation composer
 
-npm composer update
+ composer update
 
 ## changer la valeur de {{path}}
 
