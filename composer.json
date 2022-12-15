@@ -1,0 +1,7 @@
+{
+    "require": {
+        "twig/twig": "^3.4",
+        "pdfcrowd/pdfcrowd": "^5.10",
+        "dompdf/dompdf": "dev-master"
+    }
+}
